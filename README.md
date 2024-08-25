@@ -1,0 +1,1 @@
+This project in My sql server analyzes Olympic data using sql quieres . Through data exploration and visualization, it reveals insights into athlete performance, medal distribution, and historical trends, enhancing our understanding of the Olympic Games.
